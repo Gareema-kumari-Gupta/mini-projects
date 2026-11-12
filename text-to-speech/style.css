@@ -1,0 +1,51 @@
+html {
+    background: #0f172a;
+}
+
+body{
+    max-width: 360px;
+    margin: 16px auto;
+    padding: 24px;
+    background: #1e293b;
+    border-radius: 20px;
+    color: #fff;
+    font-family: poppins;
+}
+
+h1{
+    margin: 0 0 14px;
+}
+
+textarea,select{
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 10px;
+}
+
+textarea,select,button{
+    background: #0f172a;
+    color: #fff;
+    border: 1px solid #334155;
+    border-radius: 10px;
+    font: inherit;
+}
+
+textarea{
+    height: 70px;
+    resize: none;
+}
+
+label{
+    display: block;
+    margin-bottom: 12px;
+}
+
+input{
+    accent-color: #6366f1;
+}
+
+button{
+    padding: 10px 22px;
+    background: #6366f1;
+    border: 0;
+}
